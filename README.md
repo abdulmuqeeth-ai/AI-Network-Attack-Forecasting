@@ -216,6 +216,7 @@ Developed by a student team for **Smart India Hackathon 2026**.
 **Lead Developer:** Abdul Muqeeth
 
 GitHub: [@abdulmuqeeth-ai](https://github.com/abdulmuqeeth-ai)
+Public Link: https://ai-network-attack-forecasting.streamlit.app 
 
 ---
 
